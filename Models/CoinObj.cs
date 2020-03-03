@@ -15,9 +15,9 @@ namespace CoinCalculator.Models
 
         public static int MoneyLeft;
 
-        public static int MoneyLeftDimes;
+        // public static int MoneyLeftDimes;
 
-        public static int MoneyLeftNickles;
+        // public static int MoneyLeftNickles;
 
 
 
@@ -36,20 +36,20 @@ namespace CoinCalculator.Models
         public static int DimeCalculator()
         {
             int DimesResult = MoneyLeft / Dimes;
-            MoneyLeftDimes = MoneyLeft % Dimes;
+            MoneyLeft = MoneyLeft % Dimes;
             return DimesResult;
         }
 
         public static int NicklesCalculator()
         {
-            int NickleResult = MoneyLeftDimes / Nickles;
-            MoneyLeftNickles = MoneyLeftDimes % Nickles;
+            int NickleResult = MoneyLeft / Nickles;
+            MoneyLeft = MoneyLeft % Nickles;
             return NickleResult;
         }
 
         public static int GetPenny()
         {
-            return MoneyLeftNickles;
+            return MoneyLeft;
         }
     }
 
