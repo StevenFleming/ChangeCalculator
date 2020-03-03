@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/obj/Debug/netcoreapp2.2/CoinCalculator.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/obj/Debug/netcoreapp2.2/CoinCalculator.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/obj/Debug/netcoreapp2.2/CoinCalculator.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/obj/Debug/netcoreapp2.2/CoinCalculator.AssemblyInfo.cs
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/bin/Debug/netcoreapp2.2/CoinCalculator.deps.json
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/bin/Debug/netcoreapp2.2/CoinCalculator.runtimeconfig.json
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/bin/Debug/netcoreapp2.2/CoinCalculator.runtimeconfig.dev.json
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/bin/Debug/netcoreapp2.2/CoinCalculator.dll
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/bin/Debug/netcoreapp2.2/CoinCalculator.pdb
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/obj/Debug/netcoreapp2.2/CoinCalculator.dll
+/Users/Guest/Desktop/Coin/Coin.Solution/CoinCalculator/obj/Debug/netcoreapp2.2/CoinCalculator.pdb
